@@ -2400,4 +2400,4 @@ if __name__ == '__main__':
                 boto3.setup_default_session(region_name='us-east-1')
             else:
                 boto3.setup_default_session(profile_name=profile_name, region_name='us-east-1')
-    lambda_handler("test", "test")
+    lambda_handler("NzM1MDIwNDE2NzMyNDk1ODky.XxaLGw.SJeUbfgs6opJZLhVTbVEsXR-p08", "NzM1MDIwNDE2NzMyNDk1ODky.XxaLGw.SJeUbfgs6opJZLhVTbVEsXR-p08")
